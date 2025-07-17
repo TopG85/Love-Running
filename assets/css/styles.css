@@ -15,13 +15,13 @@ body {
     flex-direction: column;
     /* General styles */
     color: #3a3a3a;
-     font-family: "Henny Penny", sans-serif
-}
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
 h1 {
-     font-family: "Henny Penny", sans-serif;
+   font-family: "Henny Penny", sans-serif
 }
-
 
 /* Header */
 header {
